@@ -1,6 +1,10 @@
 # :dart: Projeto Testes em React
 Projeto desenvolvido no módulo 14, durante o módulo de front-end no curso de desenvolvimento web da Trybe.
 
+<p align="center">
+  <img  src="https://github.com/marianasaraiva/trybe-react-testing-library/blob/main/ReactTesting.png" alt="React testing image"/>
+</p>
+
 
 ## :brain: Habilidades
 
