@@ -31,4 +31,5 @@ Neste projeto foi desenvolvido os testes para uma aplicação React. Foi utiliza
     * `git clone git@github.com:marianasaraiva/trybe-react-testing-library.git`
     * `npm install`
     * `npm start`
-    * `npx stryker run ./stryker/PokemonDetails.conf.json` para verificar a cobertura dos testes.
+    * `npx stryker run ./stryker/PokemonDetails.conf.json` para verificar a cobertura de global dos testes
+    * `npx stryker run` para verificar a cobertura de todos os testes, caso a caso.
